@@ -5,7 +5,7 @@
 * [Abstract factory pattern](https://springhow.com/abstract-factory-pattern/) and their [Examples](./src/main/java/com/springhow/designpatterns/abstract_factory/)
 * [Singleton pattern](https://springhow.com/factory-pattern/) and their [Examples](./src/main/java/com/springhow/designpatterns/singleton/)
 * [Builder pattern](https://springhow.com/builder-pattern/)  and their [Examples](./src/main/java/com/springhow/designpatterns/builder/)
-* Prototype pattern
+* [Prototype pattern](https://springhow.com/prototype-pattern/) and their [Examples](./src/main/java/com/springhow/designpatterns/prototype/)
 
 ## Structural Design Patterns
 * Adapter pattern
