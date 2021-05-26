@@ -8,8 +8,8 @@
 * [Prototype pattern](https://springhow.com/prototype-pattern/) and their [Examples](./src/main/java/com/springhow/designpatterns/prototype/)
 
 ## Structural Design Patterns
-* [Adapter pattern](https://springhow.com/prototype-pattern/) and their [Examples](./src/main/java/com/springhow/designpatterns/adapter/)
-* Bridge pattern
+* [Adapter pattern](https://springhow.com/adapter-pattern/) and their [Examples](./src/main/java/com/springhow/designpatterns/adapter/)
+* [Bridge pattern](https://springhow.com/bridge-pattern/) and their [Examples](./src/main/java/com/springhow/designpatterns/bridge/)
 * Composite pattern
 * Decorator pattern
 * Facade pattern
